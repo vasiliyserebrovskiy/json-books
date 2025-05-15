@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "title": "The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "genre": "Fantasy",
+      "isbn": "978-0261103573"
+    },
+    {
+      "title": "The Two Towers",
+      "author": "J.R.R. Tolkien",
+      "year": 1954,
+      "genre": "Fantasy",
+      "isbn": "978-0261102361"
+    },
+    {
+      "title": "The Return of the King",
+      "author": "J.R.R. Tolkien",
+      "year": 1955,
+      "genre": "Fantasy",
+      "isbn": "978-0261102378"
+    },
+    {
+      "title": "The Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "year": 1977,
+      "genre": "Mythopoeia",
+      "isbn": "978-0618391110"
+    }
+  ]
+}
